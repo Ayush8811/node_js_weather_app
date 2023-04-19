@@ -26,6 +26,9 @@ This is a simple weather app built with Node.js that allows users to search for 
 - Express.js
 - OpenWeatherMap API
 - HTML/CSS
+- Bootstrap
+- Handlebars
+- Javascript
 #### Contributing
 - Contributions are always welcome! If you'd like to contribute, please fork the repository and create a pull requests.
 
