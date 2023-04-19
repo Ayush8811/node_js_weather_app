@@ -8,6 +8,11 @@ This is a simple weather app built with Node.js that allows users to search for 
 ![Weather App Screenshot](/screenshots/Screenshot_2.png)
 ![Weather App Screenshot](/screenshots/Screenshot_3.png)
 
+#### Demo
+Demo is not available since hosting a Node.js application on Hostinger is premium plan. But here is the homepage
+https://weatherappnodejs.000webhostapp.com/
+https://weatherappnodejs.000webhostapp.com/about.html
+
 #### Features
 - Search for weather information for any city in the world
 - Display of current temperature, weather conditions, and date/time
